@@ -1,1 +1,0 @@
-# divic_ml_course
